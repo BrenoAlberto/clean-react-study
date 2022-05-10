@@ -46,3 +46,11 @@ add libs to avoid incorrect commits
 
 * add .lintstagedrc.json
 * add .huskyrc.json
+
+add jest
+--------
+
+> npm i -D jest @types/jest ts-jest
+
+add jest config
+----------------
