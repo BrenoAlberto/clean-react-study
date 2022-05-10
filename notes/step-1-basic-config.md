@@ -38,3 +38,11 @@ add .eslintrc.json
 
 add .eslintignore
 -----------------
+
+add libs to avoid incorrect commits
+------------------------------------
+
+> npm i -D lint-staged husky
+
+* add .lintstagedrc.json
+* add .huskyrc.json
